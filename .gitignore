@@ -1,0 +1,6 @@
+#Ignore .env:
+.env
+/node_modules
+
+#ignore readme.md:
+readme.md
